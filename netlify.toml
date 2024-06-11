@@ -1,0 +1,23 @@
+/app
+ /api
+ /blog
+ /components
+ /css
+/public
+ /image
+ /lottie
+ /png
+ /svg
+ /utils
+
+[build]
+  base = "DEVELOPER-PORTFOLIO"
+  publish = "DEVELOPER-PORTFOLIO/.next"
+  command = "npm run build"
+
+[build.environment]
+  NODE_VERSION = "22.3.0"
+
+  "scripts": {
+  "build": "next build"
+}
