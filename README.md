@@ -3,21 +3,9 @@
 </p>
 
 ---
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/Abdullah-Asgher)
 
 ---
-
-# Developer Portfolio
-
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
-
----
-
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
-
-## View live preview [here](https://abusaid.netlify.app/).
 
 ---
 
@@ -119,16 +107,12 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
   description: "My name is Abdullah....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  email: "mr.abdullah_cs@hotmail.com",
+  phone: "+92-311-4340006",
+  address: "Lahore, Pakistan",
+  github: "https://github.com/Abdullah-Asgher",
+  linkedIn: "https://www.linkedin.com/in/abdullah-asghar-431449188/",
+  devUsername: "Abdullah707",
   resume: "...",
 };
 ```
