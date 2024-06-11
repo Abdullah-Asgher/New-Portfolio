@@ -5,7 +5,3 @@
 
 [build.environment]
   NODE_VERSION = "22.3.0"
-
-  "scripts"= {
-  "build": "next build"
-}
