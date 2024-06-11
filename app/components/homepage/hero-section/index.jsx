@@ -116,21 +116,29 @@ function HeroSection() {
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-amber-300">React</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">React-Native</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">AngularJS</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NextJS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redux</span>
+                <span className="text-amber-300">TypeScript</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
+                <span className="text-amber-300">Wordpress</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NestJS</span>
+                <span className="text-amber-300">Javascript</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MySql</span>
+                <span className="text-amber-300">Bootstrap</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MongoDB</span>
+                <span className="text-amber-300">Tailwind</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Docker</span>
+                <span className="text-amber-300">Material-UI</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">AWS</span>
+                <span className="text-amber-300">Kendo-UI</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">CSS</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">HTML</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
@@ -170,8 +178,8 @@ function HeroSection() {
               <div>
                 <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
                 <span className="mr-2 text-white">skills.length</span>
-                <span className="mr-2 text-amber-300">&gt;=</span>
-                <span className="text-orange-400">5</span>
+                <span className="mr-2 text-amber-300">&gt;</span>
+                <span className="text-orange-400">10</span>
               </div>
               <div><span className="ml-8 lg:ml-16 mr-2 text-gray-400">{`);`}</span></div>
               <div><span className="ml-4 lg:ml-8 text-gray-400">{`};`}</span></div>
