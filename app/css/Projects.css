@@ -1,0 +1,28 @@
+css
+Copy code
+/* Ensure that sticky elements stack properly */
+.sticky-card {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.sticky-card + .sticky-card {
+  margin-top: -50px; /* Adjust this value based on your card height */
+}
+
+.box-border {
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+
+/* Add hover animation if needed */
+.sticky-card:hover .box-border {
+  transform: scale(1.05);
+  opacity: 1;
+}
+
+/* Make sure the project-card has a minimum height so they stack properly */
+.project-card {
+  min-height: 200px; /* Adjust based on your card content */
+}
